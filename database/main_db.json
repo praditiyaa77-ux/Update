@@ -1,0 +1,11 @@
+{
+  "banned": [],
+  "public": true,
+  "chats": {
+    "120363xxxxxx@g.us": {
+      "antitagsw": false,
+      "antiswgc": false,
+      "antiswgc2": false
+    }
+  }
+}

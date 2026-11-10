@@ -1,0 +1,17 @@
+{
+  "6285788309825@s.whatsapp.net": {
+    "name": "",
+    "level": 1,
+    "xp": 0,
+    "money": 1000,
+    "limit": 20,
+    "health": 100,
+    "bank": 0,
+    "inventory": {
+      "ramuan": 2,
+      "pancing": 1
+    },
+    "lastAbsen": 0,
+    "lastDaily": 0
+  }
+}
